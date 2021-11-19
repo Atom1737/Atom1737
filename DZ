@@ -1,0 +1,21 @@
+using System;
+
+namespace привет_мир
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int age = 18;
+            string yourAge = "Сколько вам лет ";
+            var good = '!';
+            float time = 6.2f;
+            double startTime = 6.30;
+            long raeng = 1000000;
+            ulong longRaeng = 1000000;
+            bool tru = 1;
+            byte one = 1;
+            uint tow = 2;
+        }
+    }
+}
